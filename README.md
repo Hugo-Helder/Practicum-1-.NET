@@ -2,10 +2,10 @@
 
 ## Practicum 1A
 
-Zie [canvas](https://canvas.hu.nl/courses/20219/assignments/131846?module_item_id=522245) voor de opdracht. In practicum 1A is alleen het project `TicTacToeGui` van toepassing.
+Zie [canvas](https://canvas.hu.nl/courses/26958/assignments/186724?module_item_id=712312) voor de opdracht. In practicum 1A is alleen het project `TicTacToeGui` van toepassing.
 
 ## Practicum 1B
-Zie [canvas](https://canvas.hu.nl/courses/20219/assignments/131868?module_item_id=522566) voor de opdracht. Het `TicTacToeEngine` project is al aangemaakt, werk hierin verder.
+Zie [canvas](https://canvas.hu.nl/courses/26958/assignments/186725?module_item_id=712313) voor de opdracht. Het `TicTacToeEngine` project is al aangemaakt, werk hierin verder.
 
 ### Tests
 
